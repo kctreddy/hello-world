@@ -5,3 +5,5 @@
 
 pom.xml --> We need this file to build code with the help of maven.
 
+commands:
+whereis git
